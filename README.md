@@ -158,6 +158,6 @@ test suite name.
 This is the PHPUnit bootstrap file that is loaded before tests run.
 Replace `CourseHero\\Template` with the namespace to your package.
 
-[1] http://symfony.com/doc/current/cookbook/bundles/best_practices.html
-[2] http://www.php-fig.org/psr/psr-0/
-[3] http://hhvm.com/
+[1]: http://symfony.com/doc/current/cookbook/bundles/best_practices.html
+[2]: http://www.php-fig.org/psr/psr-0/
+[3]: http://hhvm.com/
