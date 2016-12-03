@@ -13,7 +13,7 @@
     },
     "require-dev": {
         "phpunit/phpunit": "~4",
-        "satooshi/php-coveralls": "~0.6"
+        "satooshi/php-coveralls": "^1.0"
     },
     "autoload": {
         "psr-0": { "CourseHero\\Template": "src/" }
